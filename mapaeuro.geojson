@@ -9,7 +9,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff2e2e",
-        "fill-opacity": 1
+        "fill-opacity": 0
       },
       "geometry": {
         "coordinates": [
