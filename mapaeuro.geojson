@@ -3954,7 +3954,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
@@ -4892,7 +4893,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
@@ -7084,7 +7086,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#fff947",
+        "fill-opacity": 1,
+        "name": "totea"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -7335,7 +7344,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 7
     },
     {
       "type": "Feature",
@@ -8414,7 +8424,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
@@ -11323,7 +11334,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#52a5ff",
-        "fill-opacity": 1
+        "fill-opacity": 1,
+        "name": "nose"
       },
       "geometry": {
         "coordinates": [
