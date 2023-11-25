@@ -4,7 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "India"
+        "name": "India",
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff2e2e",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "coordinates": [
@@ -477,7 +482,7 @@
         ],
         "type": "Polygon"
       },
-      "id": "IND"
+      "id": 0
     },
     {
       "type": "Feature",
@@ -8874,7 +8879,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff2e2e",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "coordinates": [
           [
@@ -9685,7 +9696,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
