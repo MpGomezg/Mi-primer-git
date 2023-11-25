@@ -1916,7 +1916,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
@@ -5878,11 +5879,12 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ac30c5",
+        "stroke": "#26002e",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ad4ed0",
-        "fill-opacity": 1
+        "fill": "#2d003d",
+        "fill-opacity": 1,
+        "name": "afri"
       },
       "geometry": {
         "coordinates": [
@@ -6338,7 +6340,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
