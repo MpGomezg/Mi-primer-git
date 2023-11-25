@@ -9,7 +9,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff2e2e",
-        "fill-opacity": 0
+        "fill-opacity": 1
       },
       "geometry": {
         "coordinates": [
@@ -10777,7 +10777,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#44ff00",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00ff33",
+        "fill-opacity": 1,
+        "name": "green"
+      },
       "geometry": {
         "coordinates": [
           [
