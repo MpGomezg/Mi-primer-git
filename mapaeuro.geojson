@@ -3969,7 +3969,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "china",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#8c8aff",
+        "fill-opacity": 1
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4220,7 +4227,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
@@ -9155,7 +9163,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff2e2e",
-        "fill-opacity": 1
+        "fill-opacity": 1,
+        "name": "red"
       },
       "geometry": {
         "coordinates": [
@@ -9967,7 +9976,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 14
     },
     {
       "type": "Feature",
@@ -10353,7 +10363,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 15
     },
     {
       "type": "Feature",
@@ -10835,7 +10846,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 16
     },
     {
       "type": "Feature",
@@ -11629,7 +11641,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "idk",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#99ff00",
+        "fill-opacity": 1
+      },
       "geometry": {
         "coordinates": [
           [
@@ -11896,7 +11915,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 19
     },
     {
       "type": "Feature",
